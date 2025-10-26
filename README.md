@@ -25,5 +25,5 @@ npm install
 npm run dev
 
 ## Deployment
-- Backend → Render
+- Backend → Render/Vue
 - Frontend → Netlify / Vercel / GitHub Pages
