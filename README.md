@@ -27,5 +27,5 @@ npm run dev
 Node modules will install after frontend is run.
 
 ## Deployment
-- Backend → Render/Vue
+- Backend → FastAPI/Vue
 - Frontend → Netlify / Vercel / GitHub Pages
