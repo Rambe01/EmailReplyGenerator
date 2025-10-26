@@ -24,6 +24,8 @@ cd frontend
 npm install
 npm run dev
 
+Node modules will install after frontend is run.
+
 ## Deployment
 - Backend → Render/Vue
 - Frontend → Netlify / Vercel / GitHub Pages
